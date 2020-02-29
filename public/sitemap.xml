@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://ttravers-site.ttravers.workers.dev/posts/my-first-post/</loc>
+    <lastmod>2020-02-11T14:53:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://ttravers-site.ttravers.workers.dev/posts/</loc>
+    <lastmod>2020-02-11T14:53:48-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://ttravers-site.ttravers.workers.dev/</loc>
+    <lastmod>2020-02-11T14:53:48-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ttravers-site.ttravers.workers.dev/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ttravers-site.ttravers.workers.dev/tags/</loc>
   </url>
   
 </urlset>

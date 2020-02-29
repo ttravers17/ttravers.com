@@ -1,0 +1,10 @@
+name = "ttravers-site"
+account_id = "90e1ac42eb35b5b6ee509b968517ee1b"
+type = "webpack"
+zone_id = "b31782ea57dece15d785a10bfd52ec2a"
+route = "ttravers.dev/*"
+# workers_dev = true
+
+[site]
+bucket = "./public"
+
